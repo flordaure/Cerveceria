@@ -1,6 +1,6 @@
 # Cerveceria
 Profesor: 
-1. Respecto a la consulta de cuántos consumidores se necesitan para que el stock llegue a 0, yo solo pude hacer andar el programa con un solo consumidor, si ponía más el programa no termina nunca de ejecutarse. La verdad no se cuál es el error que estoy cometiendo. Lo hice guiandome de los ejemmplos que hizo Pablo cuando explicó el tema.-
+1. Respecto a la consulta de cuántos consumidores se necesitan para que el stock llegue a 0, yo solo pude hacer andar el programa con un solo consumidor, si ponía más el programa no termina nunca de ejecutarse. La verdad no se cuál es el error que estoy cometiendo. Lo hice guiandome de los ejemplos que hizo Pablo cuando explicó el tema.-
 
 2. Synchronized permite que entre un hilo a la vez a la memoria común, por lo tanto los bloques de código que acceden a ese espacio de memoria deben utilizar la palabra reservada Synchronized para evitar que ambos entren a la vez en el mismo espacio de memoria. Con Synchronized, hasta tanto el hilo que entró no termmine de ejecutar las sentencias, no puede entrar el otro hilo.-
 
