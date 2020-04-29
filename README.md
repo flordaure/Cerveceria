@@ -10,7 +10,7 @@ Profesor:
 
 * La primer forma es: Extender directamente de la clase Thread, cuando la clase no debe extender de ninguna otra superclase.-
 * La segunda forma es: Si nuestra clase debe extender de otra superclase como solo se permite extender de una única clase, y si extiendo de Thread ya no podría extender de otra clase, en lugar de extender de Thread se implementa la interfaz Runnable.
-* La tercer forma no la vimmos, pero googleando encontré que se puede: "Pasarle un Runnable al constructor de Thread creando una clase anónima", sin embargo, recomiendan no utiliza esta forma.-
+* La tercer forma no la vimos, pero googleando encontré que se puede: "Pasarle un Runnable al constructor de Thread creando una clase anónima", sin embargo, recomiendan no utilizar esta forma.-
 
 
 
